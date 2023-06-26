@@ -14,5 +14,5 @@ Here's some screenshots of the game:
 <p align="center"> <img src="./images/01_Gameplay.PNG" width="640" height="320"> </p>
 <p align="center"> <img src="./images/02_Gameplay.PNG" width="640" height="320"> </p>
 
-You can also watch a full coop gameplay played if you want [part one here](https://youtu.be/_OlfO011vLM) and [final part here](https://youtu.be/CrIsaC3fA1I)
+You can also watch a full coop gameplay if you want [part one here](https://youtu.be/_OlfO011vLM) and [final part here](https://youtu.be/CrIsaC3fA1I)
 <p align="center"> <img src="./images/03_Logo.png" width="640" height="320"> </p>
